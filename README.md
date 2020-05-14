@@ -25,5 +25,3 @@ Remote execute via ssh
 https://www.youtube.com/watch?v=ZtNEyMXWpjI
 
 Publish over SSH
-
-SCP Plugin
