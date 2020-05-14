@@ -19,3 +19,11 @@ sudo mv jenkins.war jenkins.war.old
 sudo wget https://updates.jenkins-ci.org/latest/jenkins.war
 
 sudo service jenkins start
+
+Remote execute via ssh
+
+https://www.youtube.com/watch?v=ZtNEyMXWpjI
+
+Publish over SSH
+
+SCP Plugin
